@@ -6,4 +6,5 @@ input3 = int(input('enter input 3 here: '))
 input4 = int(input('enter input 4 here: '))
 
 
-salary = 1000
+salary = input1 + input2 + input3 + input4
+
