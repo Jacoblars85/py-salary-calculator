@@ -8,3 +8,4 @@ input4 = int(input('enter input 4 here: '))
 
 salary = input1 + input2 + input3 + input4
 
+print('salary is:', salary)
